@@ -3,7 +3,7 @@ Moho Pro - 2D/3D BVH mocap Bone Import and Animation
 
 ### What is this ? ###
 
-*	version: MH12 01.00.000 #470306.01       -- by Sam Cogheil (SimplSam)
+*	version: MH12 01.00.000 #470312.01       -- by Sam Cogheil (SimplSam)
 *	release: v1.0.0 
 
 ### How do I get set up ? ###
