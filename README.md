@@ -29,6 +29,7 @@ Moho Pro - 2D/3D BVH mocap Bone Import and Animation
 *	David Wooldridge: BVH Hacker -- http://www.bvhacker.com - http://davedub.co.uk
 *	Nghia Ho: Decomposing and composing a 3×3 rotation matrix -- http://nghiaho.com/?page_id=846
 *	Gregory G. Slabaugh: Computing Euler angles from a rotation matrix -- http://www.soi.city.ac.uk/~sbbh653/publications/euler.pdf
-*	Mike Kelly: MK utility functions -- http://www.animatorsforum.com	    
+*	Stan: MOHO Scripting -- http://mohoscripting.com
+*	Mike Kelly: MK utility functions -- http://www.animatorsforum.com
 *	The friendly faces @ Lost Marble Moho forum -- http://www.lostmarble.com/forum/
 	
